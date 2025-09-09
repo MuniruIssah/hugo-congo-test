@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on missah</title>
-    <link>https://example.org/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on missah</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 09 Sep 2025 19:10:42 +0000</lastBuildDate>
-    <atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fugu</title>
-      <link>https://example.org/tags/fugu/</link>
+      <link>http://localhost:1313/tags/fugu/</link>
       <pubDate>Tue, 09 Sep 2025 19:10:42 +0000</pubDate>
-      <guid>https://example.org/tags/fugu/</guid>
+      <guid>http://localhost:1313/tags/fugu/</guid>
       <description></description>
     </item>
     <item>
       <title>Security</title>
-      <link>https://example.org/tags/security/</link>
+      <link>http://localhost:1313/tags/security/</link>
       <pubDate>Tue, 09 Sep 2025 19:10:42 +0000</pubDate>
-      <guid>https://example.org/tags/security/</guid>
+      <guid>http://localhost:1313/tags/security/</guid>
       <description></description>
     </item>
     <item>
       <title>Webauthn</title>
-      <link>https://example.org/tags/webauthn/</link>
+      <link>http://localhost:1313/tags/webauthn/</link>
       <pubDate>Tue, 09 Sep 2025 19:10:42 +0000</pubDate>
-      <guid>https://example.org/tags/webauthn/</guid>
+      <guid>http://localhost:1313/tags/webauthn/</guid>
       <description></description>
     </item>
   </channel>
