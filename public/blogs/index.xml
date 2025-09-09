@@ -15,5 +15,12 @@
       <guid>http://localhost:1313/blogs/my-first-post/</guid>
       <description>My first post</description>
     </item>
+    <item>
+      <title>My Second Post</title>
+      <link>http://localhost:1313/blogs/my-second-post/</link>
+      <pubDate>Tue, 09 Sep 2025 19:10:42 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/my-second-post/</guid>
+      <description>My second post</description>
+    </item>
   </channel>
 </rss>
